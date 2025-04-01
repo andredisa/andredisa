@@ -1,3 +1,5 @@
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andredisa&label=Profile%20views&color=0e75b6&style=flat" alt="gcarnab" /> </p>-->
+
 <h1 align="center">👨‍💻 AndreDisa GitHub</h1>
 
 ### 💻 **About Me:**
