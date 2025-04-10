@@ -14,8 +14,9 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=contribs,prs&count_private=true&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&hide_rank=true" alt="AndreDisa GitHub stats" style="display: inline-block; margin-right: 20;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&hide_progress=true" alt="Top Langs" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=issues&count_private=true&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&hide_rank=true" alt="AndreDisa GitHub stats" style="display: inline-block; margin-right: 20;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&layout=compact" alt="Top Langs" style="display: inline-block;" />
+
 </div>
 
 ---
