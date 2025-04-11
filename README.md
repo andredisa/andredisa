@@ -14,7 +14,7 @@
 - 🗣️ Always curious to explore new `languages`, `frameworks`, and `tools`.  
 - 🏋️‍♂️ `Gym enthusiast` – staying fit to keep both mind and body sharp.  
 - 📚 `Avid reader` and `music lover` – always on the lookout for new inspiration.  
-- 🌱 `Lifelong learner` – constantly seeking opportunities for `professional` and `personal growth`.
+- 🌱 `Lifelong learner` – Always seeking `professional` and `personal growth`.
 
 </small>
 
