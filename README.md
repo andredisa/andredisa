@@ -6,12 +6,20 @@
 
 ---
 
-### 💻 **About Me:**
-- 🧑‍💻 <span style="color:#d9d9d9">Passionate **Software Developer** with a love for **technology** and **programming**.</span>
-- 🗣️ <span style="color:#d9d9d9">Always curious to explore new **languages**, **frameworks**, and **tools**.</span>
-- 🏋️‍♂️ <span style="color:#d9d9d9">**Gym enthusiast** – staying fit to keep both mind and body sharp.</span>
-- 📚 <span style="color:#d9d9d9">**Avid reader** and **music lover** – always on the lookout for new inspiration.</span>
-- 🌱 <span style="color:#d9d9d9">**Lifelong learner** – constantly seeking opportunities for **professional** and **personal growth**.</span>
+### 💻 About Me
+
+<small>
+
+- 🧑‍💻 Passionate `Software Developer` with a love for `technology` and `programming`.  
+- 🗣️ Always curious to explore new `languages`, `frameworks`, and `tools`.  
+- 🏋️‍♂️ `Gym enthusiast` – staying fit to keep both mind and body sharp.  
+- 📚 `Avid reader` and `music lover` – always on the lookout for new inspiration.  
+- 🌱 `Lifelong learner` – constantly seeking opportunities for `professional` and `personal growth`.
+
+</small>
+
+
+
 
 ---
 
