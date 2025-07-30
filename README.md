@@ -1,7 +1,6 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andredisa&label=Profile%20views&color=0e75b6&style=flat" alt="andredisa" /> </p>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d9d9d9&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d9d9d9&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+AndreDisa's+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
@@ -33,6 +32,10 @@
 </div><br>
 
   [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide&area_color=d9d9d9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=andredisa-d&label=Profile%20views&color=A9A9A9&style=for-the-badge">
+</div>
 
 ---
 
