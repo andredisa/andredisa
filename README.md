@@ -1,6 +1,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andredisa&label=Profile%20views&color=0e75b6&style=flat" alt="andredisa" /> </p>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d9d9d9&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d9d9d9&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+AndreDisa's+GitHub)](https://git.io/typing-svg)
 <!--<h1 align="center">👨‍💻 AndreDisa GitHub</h1>-->
 
@@ -23,8 +24,9 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <br>
 <div align="center">
+    <img style="width:65%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=dark"/>
     <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=issues&show_icons=false&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; width: 40%; margin-right: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack" alt="Top Langs" style="display: inline-block; width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack" alt="Top Langs" style="display: inline-block; width: 40%;" />
 
 </div><br><br>
 
