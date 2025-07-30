@@ -32,7 +32,7 @@
 
 </div><br>
 
-  [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide&area_color=d9d9d9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
