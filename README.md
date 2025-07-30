@@ -3,10 +3,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d9d9d9&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+AndreDisa's+GitHub)](https://git.io/typing-svg)
+
 <div align="center">
     <img style="width:50%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=sonokai"/>
 </div>
 
+---
 
 ### 💻 About Me
 
