@@ -36,9 +36,9 @@
 
 ---
 
-<div align="center">
+<div align="center" >
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,java,spring,jquery,python,arduino,cs,cpp,mysql,git,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,sqlite,java,spring,jquery,python,arduino,cs,cpp,mysql,git)](https://skillicons.dev)
 
 ---
 
