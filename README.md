@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d9d9d9&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+AndreDisa's+GitHub)](https://git.io/typing-svg)
 <div align="center">
-    <img style="width:35%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=dark"/>
+    <img style="width:50%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=dark"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=issues&show_icons=false&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; width: 40%; margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack" alt="Top Langs" style="display: inline-block; width: 40%;" />
 
-</div>
+</div><br>
 
   [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
