@@ -26,7 +26,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=issues&show_icons=true&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; width: 40%; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andredisa&hide=issues&show_icons=true&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; margin-right: 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack" alt="Top Langs" style="display: inline-block; width: 40%;" />
 
 </div><br>
@@ -39,9 +39,9 @@
 
 ---
 
-<div align="center" >
+<div align="center" width: 40%; >
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,sqlite,java,spring,jquery,python,arduino,cs,cpp,mysql,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,sqlite,java,spring,jquery,python,arduino,cs,cpp,mysql,git,postgres)](https://skillicons.dev)
 
 ---
 
