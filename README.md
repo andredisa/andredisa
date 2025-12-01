@@ -41,7 +41,7 @@
 
 <div align="center" width: 40%; >
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,sqlite,java,spring,jquery,python,arduino,cs,cpp,mysql,git,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,sqlite,java,spring,jquery,python,arduino,cs,cpp,mysql,git,postgres&perline=20&size=35)](https://skillicons.dev)
 
 ---
 
