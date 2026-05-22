@@ -33,13 +33,12 @@
 
 <small>
 
-- 🧑‍💻 Passionate `Software Developer` with a strong interest in `technology`, `programming`, and modern digital solutions.  
-- 🤖 Enthusiastic about `Artificial Intelligence`, `automation`, and building smart software experiences.  
-- 🗣️ Always curious to explore new `languages`, `frameworks`, and `tools` to continuously improve my skills.  
-- ⚙️ Focused on creating clean, scalable, and efficient applications with attention to both performance and user experience.  
-- 🏋️‍♂️ `Gym enthusiast` – staying fit to keep both mind and body sharp.  
-- 📚 `Avid reader` and `music lover` – always looking for new ideas and inspiration.  
-- 🌱 `Lifelong learner` – constantly pursuing both `professional` and `personal growth`.  
+- 🧑‍💻 Software Developer focused on building scalable and maintainable applications  
+- 🤖 Working with 'Artificial Intelligence', 'automation systems', and 'backend architectures'  
+- ⚙️ Strong interest in 'clean code', 'system design', and 'performance optimization'  
+- 🛠️ Experience with 'full-stack development' and modern frameworks  
+- 📚 Continuously improving 'software engineering' and 'problem-solving skills'  
+- 🌱 Always learning and exploring new 'technologies'  
 
 </small>
 
