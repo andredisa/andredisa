@@ -4,7 +4,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d9d9d9&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+AndreDisa's+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
-    <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=sonokai"/>
+
+  <img style="width:60%; height:auto" 
+       src="https://github-widgetbox.vercel.app/api/profile?username=andredisa&data=followers,repositories,stars,commits&theme=sonokai"/>
+
+  <br>
+
+  <div>
+    <a href="https://github.com/sponsors/andredisa">
+      <img 
+        src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA"
+        style="border:0; display:inline-block;"
+      />
+    </a>
+    <a href="https://buymeacoffee.com/andredisa">
+      <img 
+        src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+        style="border:0; display:inline-block;"
+      />
+    </a>
+  </div>
+
 </div>
 
 ---
