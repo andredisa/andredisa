@@ -47,9 +47,8 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andredisa&hide=issues&show_icons=true&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; margin-right: 40px;"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack" alt="Top Langs" style="display: inline-block; width: 36%;" />
-
+    <img src="https://github-readme-stats-andredisa.vercel.app/api?username=andredisa&hide=issues&show_icons=true&icon_color=fffffd&include_all_commits=true&rank_icon=github&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=949494" alt="AndreDisa GitHub stats" style="display: inline-block; margin-right: 40px;"/>
+<img src="https://github-readme-stats-andredisa.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack%2CRich%20Text%20Format" alt="Top Langs" style="display: inline-block; width: 32%;" />
 </div><br>
 
   [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide&area_color=d9d9d9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
