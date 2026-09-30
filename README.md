@@ -51,7 +51,7 @@
 <img src="https://github-readme-stats-andredisa.vercel.app/api/top-langs/?username=andredisa&layout=compact&title_color=ffffff&text_color=949494&hide_border=true&bg_color=0d1117&hide=hack%2CRich%20Text%20Format" alt="Top Langs" style="display: inline-block; width: 35%;" />
 </div><br>
 
-  [![andredisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide&area_color=d9d9d9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![andredisa's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=andredisa&bg_color=none&color=d9d9d9&line=d9d9d9&point=ffffff&area=true&hide&area_color=d9d9d9&hide_border=true)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=andredisa-d&label=Profile%20views&color=A9A9A9&">
